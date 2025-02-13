@@ -6,3 +6,7 @@ torch
 pdfplumber
 PyMuPDF
 sentencepiece
+pdfminer.six
+pymupdf
+pypdf
+pdfplumber
